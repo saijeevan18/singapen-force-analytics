@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🛡️ Women & Child Safety Command Center (AI-Powered Prototype)
 
-## Getting Started
+A frontend-only simulation dashboard designed as a conceptual Women & Child Safety Command Center, inspired by real-world public safety monitoring systems and emergency response workflows.
 
-First, run the development server:
+This project explores how AI-assisted tools can be used to rapidly prototype complex civic-tech systems using modern frontend technologies and structured mock data.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+💡 About the Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a conceptual system design prototype, not a production application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+It simulates how a centralized safety command center could work for:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Women safety monitoring
+Child safety reporting
+Emergency SOS alerts
+Domestic violence incident tracking
+Unsafe location reporting
+Regional safety analytics
 
-## Learn More
+The goal is to explore product thinking + system design + AI-assisted UI generation for real-world civic technology problems.
 
-To learn more about Next.js, take a look at the following resources:
+🧠 Key Features
+📍 Incident tracking dashboard (multi-category system)
+🚨 Emergency SOS simulation flow
+👩 Women & Child safety reporting module
+🏠 Domestic violence case tracking (mock lifecycle)
+🔥 Unsafe location heatmap-style visualization
+📊 Analytics dashboard with charts & insights
+⚡ Command-center style UI/UX design
+🤖 AI-style assistant panel (simulated interaction)
+⚙️ Tech Stack
+Next.js
+Tailwind CSS
+shadcn/ui
+Recharts
+Framer Motion
+Mock JSON data (no backend)
+🧠 My Role
+Designed the system concept & architecture
+Defined feature flows & incident lifecycle
+Structured UX for a command-center dashboard
+Used AI coding agent (Google Antigravity) to generate frontend implementation
+Focused on product thinking, not manual full-stack development
+⚠️ Disclaimer
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is a frontend-only simulation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+No real user data is used
+No connection to government or emergency systems
+All data shown is mock/synthetic
+Built for concept exploration and portfolio purposes only
+🎯 Purpose of This Project
 
-## Deploy on Vercel
+This project demonstrates:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+System design thinking in civic-tech
+AI-assisted rapid prototyping workflow
+Dashboard UI/UX design skills
+Product-oriented development approach
+📌 Future Improvements (Optional Ideas)
+Real backend integration (Firebase / Node.js)
+Live geolocation-based incident mapping
+Role-based login system (Police / Admin / Citizen)
+AI-powered incident prioritization engine
+Mobile responsive emergency app version
+👨‍💻 Tech Mindset Shift
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Instead of only focusing on coding every line manually, this project explores:
+
+“How clearly can a system be designed so that AI tools can build it efficiently?”
+
+📜 License
+
+This project is for educational and portfolio purposes only.
