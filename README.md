@@ -76,5 +76,3 @@ Instead of only focusing on coding every line manually, this project explores:
 
 This project is for educational and portfolio purposes only.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/230fba61-94e8-41ce-aa36-38c64b6e0318" />
-
