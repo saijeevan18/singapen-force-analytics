@@ -4,6 +4,8 @@ A frontend-only simulation dashboard designed as a conceptual Women & Child Safe
 
 This project explores how AI-assisted tools can be used to rapidly prototype complex civic-tech systems using modern frontend technologies and structured mock data.
 
+For Live Demo:
+Visit This site: https://singapen-force-analytics.vercel.app/
 💡 About the Project
 
 This is a conceptual system design prototype, not a production application.
@@ -73,3 +75,6 @@ Instead of only focusing on coding every line manually, this project explores:
 📜 License
 
 This project is for educational and portfolio purposes only.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/230fba61-94e8-41ce-aa36-38c64b6e0318" />
+
